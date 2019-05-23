@@ -29,13 +29,6 @@ OR
 yarn run build:darwin or linux or win32 or all
 ```
 
-## 部署说明
-
-- cnpm install 安装依赖模块
-- cnpm run build (test,online) 打包前端 到 dist 目录下
-- 把 `dist` 下的所有文件部署到 `Nginx` 的目录下即可
-
-
 ## 快捷键
 
 打开文档 <kbd>Cmd + O</kbd>
