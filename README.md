@@ -1,6 +1,6 @@
 # 欢迎使用 笔墨 (BiMo.io)
 
-![bimo](http://ww1.sinaimg.cn/large/005Bpb8ily1g3blstkkq8j31lk134npd.jpg)
+![bimo](banner.jpg)
 
 **笔墨** 是一款专为 Markdown 打造的编辑器，通过精心的设计与技术实现，特点概述：
  
