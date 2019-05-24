@@ -239,7 +239,6 @@ export default {
   },
   mounted() {
     this.markdown();
-    this.onScroll();
   },
   destroyed() {
     this.closeScroll();
@@ -359,6 +358,7 @@ export default {
 
       setTimeout(() => {
         this.onOpenLinkInit();
+        this.onScroll();
       }, 1000);
 
 

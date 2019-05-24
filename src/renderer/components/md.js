@@ -1,12 +1,11 @@
-const mdText = `# 欢迎使用 笔墨 (BiMo.io)
+const mdText = `# 欢迎使用 笔墨 BiMo.io
 
 
-![bimo](http://ww1.sinaimg.cn/large/005Bpb8ily1g3blstkkq8j31lk134npd.jpg)
-
+![bimo](http://ww1.sinaimg.cn/large/005Bpb8ily1g3c5zx3mvfj31lk1341kx.jpg)
 
 **笔墨** 是一款专为 Markdown 打造的编辑器，通过精心的设计与技术实现，特点概述：
  
-- **功能丰富** ：支持高亮代码块、*LaTeX* 公式、导出HTML/PDF，工作学习好帮手；
+- **功能丰富** ：支持高亮代码块、导出HTML/PDF等，工作笔记好帮手；
 - **多种平台** ：简洁高效的编辑器，提供 Mac + Windows 两个版本；
 - **简单易用** ：上手简单，使用简洁，编写高亮。
 
