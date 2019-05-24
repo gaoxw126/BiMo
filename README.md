@@ -10,6 +10,10 @@
 
 ---
 
+## 下载地址
+
+[点击下载](https://github.com/cteams/BiMo/releases)
+
 ## 安装说明
 
 ``` bash
