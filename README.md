@@ -63,6 +63,7 @@ yarn run build:darwin or linux or win32 or all
 - [x] 快捷键
 - [x] 滚动条同步滚动
 - [ ] 跨平台兼容
+- [ ] 本地临时存储
 - [ ] 支持 TOC
 - [ ] 支持 LaTeX 公式
 - [ ] 支持 流程图
